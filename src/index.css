@@ -3,12 +3,18 @@
 body {
   font-family: 'Open-Sans', 'sans-serif';
   background-color: rgb(65, 126, 240);
+  
 }
 header{
   border-radius: 10px;
   background-color: rgb(65, 126, 240);
 }
-
+.footer1{
+  background-color: rgb(243, 181, 48);
+}
+.footer2{background-color: rgb(29, 204, 29);}
+.footer3{background-color: rgba(230, 102, 102, 0.897);}
+.footer4{background-color: rgb(58, 119, 252);}
 
 main {
   min-height: 80vh;
