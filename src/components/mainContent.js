@@ -7,7 +7,7 @@ import Table from './Table'
 
 function MainContent() {
   return (
-<div class="row">
+<div class="row alpha">
    <Reports />
    <Analytics />
    <Seo />

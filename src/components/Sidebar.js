@@ -33,8 +33,10 @@ function Sidebar() {
                 <li className="nav-item pcoded-hasmenu">
                     <a href="#!" className="nav-link "><span className="pcoded-micon"><i className="feather icon-layout"></i></span><span className="pcoded-mtext">Page layouts</span></a>
                     <ul className="pcoded-submenu">
-                        <li><a href="layout-vertical.html" target="_blank">Vertical</a></li>
-                        <li><a href="layout-horizontal.html" target="_blank">Horizontal</a></li>
+                        <li><a href="#" target="_blank">Orders</a></li>
+                        <li><a href="#" target="_blank">Registered Businesses</a></li>
+                        <li><a href="#" target="_blank">Shipping</a></li>
+                        <li><a href="#" target="_blank">products catalogue</a></li>
                     </ul>
                 </li>
                 

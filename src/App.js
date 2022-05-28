@@ -5,8 +5,7 @@ import { Routes, Route } from "react-router-dom";
 import Layout from "./layout/Layout";
 
 // pages
-import Home from "./pages/Home";
-import About from "./pages/About";
+
 import NotFound from "./pages/NotFound";
 
 const App = () => {
@@ -15,7 +14,7 @@ const App = () => {
       <Container>
         <Routes>
           <Route path="/" element={<menu />} exact />
-          <Route path="/about" element={<About />} />
+          {/* <Route path="/orders" element={<Orders />} /> */}
           <Route element={<NotFound />} />
         </Routes>
       </Container>
