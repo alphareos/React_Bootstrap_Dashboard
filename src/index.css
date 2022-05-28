@@ -9,6 +9,7 @@ header{
   border-radius: 10px;
   background-color: rgb(65, 126, 240);
 }
+
 .footer1{
   background-color: rgb(243, 181, 48);
 }
@@ -17,5 +18,11 @@ header{
 .footer4{background-color: rgb(58, 119, 252);}
 
 main {
+  min-height: 80vh;
+}
+.row{
+  max-height: 80vh;
+}
+#main-container{
   min-height: 80vh;
 }

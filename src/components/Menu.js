@@ -10,7 +10,7 @@ const Menu = () => {
   <Sidebar />
   <Header />  
  
-  <div class="pcoded-main-container">
+  <div class="pcoded-main-container " id="main-container">
     <div class="pcoded-content">
         {/* <!-- [ breadcrumb ] start --> */}
         <div class="page-header">
